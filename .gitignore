@@ -1,1 +1,3 @@
 .gdb_history
+gol.out
+obj/*.o
