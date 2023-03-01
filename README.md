@@ -2,6 +2,8 @@
 
 Proof of concept Conway's Game of Life.
 
+![](gol.GIF)
+
 # Todo
 + load() doesnt work
 + save() can segfault somehow; dunno how to recreate the bug tho
